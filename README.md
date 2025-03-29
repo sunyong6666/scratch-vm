@@ -1,4 +1,4 @@
-## TurboWarp/scratch-vm
+## ICreate/scratch-vm
 
 Modified Scratch VM with a JIT compiler and more features.
 
